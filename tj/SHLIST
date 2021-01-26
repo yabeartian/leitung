@@ -1,0 +1,14 @@
+./collect.sh
+./config.sh
+./newjob.sh
+./package/tj-backup.sh
+./package/tj-config.sh
+./package/tj-src.sh
+./package/tj-stopenedfiles.pl
+./package/tj.sh
+./purge.sh
+./restart.sh
+./runjob.sh
+./start.sh
+./sync.sh
+./up.sh
